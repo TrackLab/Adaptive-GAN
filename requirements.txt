@@ -1,0 +1,5 @@
+tensorflow>=2.2.0
+matplotlib>=3.2.1
+numpy>=1.18.3
+opencv-python>=4.2.0.34
+tqdm>=4.46.0
